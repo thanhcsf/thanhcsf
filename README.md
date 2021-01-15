@@ -9,25 +9,25 @@ I'm Duy–Thanh Doan – a humble man – you can call me Steve (Wilson). I'm a 
 
 ### Get in touch
 
-[<img align="left" alt="Personal site" width="22px" src="https://ws-icons.thanhd.com/i/link.svg" />][website]
-[<img align="left" alt="Linkedin" width="22px" src="https://ws-icons.thanhd.com/bsp/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://ws-icons.thanhd.com/bsp/twitter.svg" />][twitter]
-[<img align="left" alt="Facebook Page" width="22px" src="https://ws-icons.thanhd.com/bsp/facebook.svg" />][facebook-pg]
-[<img align="left" alt="Dev.to" width="22px" src="https://ws-icons.thanhd.com/bsp/dev-badge.svg" />][dev.to]
-[<img align="left" alt="Quora" width="22px" src="https://ws-icons.thanhd.com/bsp/quora.svg" />][quora]
-<!--[<img align="left" alt="Email" width="22px" src="https://ws-icons.thanhd.com/i/mail.svg" />][email]-->
+[<img align="left" alt="Personal site" width="22px" src="https://ws-icons.thanhd.com/bnsp/link.svg" />][website]
+[<img align="left" alt="Linkedin" width="22px" src="https://ws-icons.thanhd.com/bnsp/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://ws-icons.thanhd.com/bnsp/twitter.svg" />][twitter]
+[<img align="left" alt="Facebook Page" width="22px" src="https://ws-icons.thanhd.com/bnsp/facebook.svg" />][facebook-pg]
+[<img align="left" alt="Dev.to" width="22px" src="https://ws-icons.thanhd.com/bnsp/dev-badge.svg" />][dev.to]
+[<img align="left" alt="Quora" width="22px" src="https://ws-icons.thanhd.com/bnsp/quora.svg" />][quora]
+<!--[<img align="left" alt="Email" width="22px" src="https://ws-icons.thanhd.com/bnsp/mail.svg" />][email]-->
 
 <br />
 
 ### Follow me
 
-[<img align="left" alt="Medium" width="22px" src="https://ws-icons.thanhd.com/bsp/medium.svg" />][medium]
-[<img align="left" alt="Goodreads" width="22px" src="https://ws-icons.thanhd.com/bsp/goodreads.svg" />][goodreads]
-[<img align="left" alt="Instagram" width="22px" src="https://ws-icons.thanhd.com/bsp/instagram.svg" />][instagram]
-[<img align="left" alt="Soundcloud" width="22px" src="https://ws-icons.thanhd.com/bsp/soundcloud.svg" />][soundcloud]
-[<img align="left" alt="Spotify" width="22px" src="https://ws-icons.thanhd.com/bsp/spotify.svg" />][spotify]
-[<img align="left" alt="Youtube" width="22px" src="https://ws-icons.thanhd.com/bsp/youtube.svg" />][youtube]
-[<img align="left" alt="Facebook" width="22px" src="https://ws-icons.thanhd.com/bsp/facebook.svg" />][facebook]
+[<img align="left" alt="Medium" width="22px" src="https://ws-icons.thanhd.com/bnsp/medium.svg" />][medium]
+[<img align="left" alt="Goodreads" width="22px" src="https://ws-icons.thanhd.com/bnsp/goodreads.svg" />][goodreads]
+[<img align="left" alt="Instagram" width="22px" src="https://ws-icons.thanhd.com/bnsp/instagram.svg" />][instagram]
+[<img align="left" alt="Soundcloud" width="22px" src="https://ws-icons.thanhd.com/bnsp/soundcloud.svg" />][soundcloud]
+[<img align="left" alt="Spotify" width="22px" src="https://ws-icons.thanhd.com/bnsp/spotify.svg" />][spotify]
+[<img align="left" alt="Youtube" width="22px" src="https://ws-icons.thanhd.com/bnsp/youtube.svg" />][youtube]
+[<img align="left" alt="Facebook" width="22px" src="https://ws-icons.thanhd.com/bnsp/facebook.svg" />][facebook]
 
 
 <!-- GET IN TOUCH -->
