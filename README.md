@@ -1,5 +1,3 @@
-<img width=20% align="right" src="https://ws-icons.thanhd.com/c/thanhdoan.svg" />
-
 ## Hi there 👋 
 [![Paypal Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=Paypal&logo=Paypal&labelColor=424242&link=%3Curl%3E&color=d1c7ab&style=flat-square&logoColor=ffffff)](https://www.paypal.me/duythanhvn)
 
